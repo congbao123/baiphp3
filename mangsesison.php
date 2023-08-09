@@ -65,7 +65,7 @@
               if ($nhanvien[0] == $deleteID) {
                   unset($_SESSION['nhanvien'][$key]);
                   echo "<script>alert('Dữ liệu với ID $deleteID đã được xóa.')</script>";
-                  break; // Dừng việc duyệt nếu tìm thấy ID
+                  break; 
               }
                  else{
                   echo "<script>alert('không tìm thấy ID vui lòng nhập lại ID.')</script>";

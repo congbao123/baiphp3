@@ -50,7 +50,7 @@ button:hover{
 }
 body{
     background-image: url('https://thumbs.dreamstime.com/z/html-internet-coding-website-front-end-programming-web-language-mix-media-background-211355717.jpg');
-    background-size: cover; /* Đảm bảo hình ảnh nền bao phủ toàn bộ kích thước của thẻ body */
-    background-position: center; /* Hiển thị hình ảnh ở giữa */
-    background-repeat: no-repeat; /* Không lặp lại hình ảnh nền */
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
 }
