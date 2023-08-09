@@ -1,0 +1,56 @@
+h2{
+    color: white;
+     text-align: center;
+     padding-right:50px ;
+     padding-top:10px;
+}
+form{
+    padding-left: 50px;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền trong suốt */
+    width:300px;
+    border-radius: 5px;
+    margin-left: 40%;
+    color:white;
+}
+#ma{
+    margin-left:21px;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền trong suốt */
+    border: 1px solid white;
+}
+#sex{
+    margin-top: 5px;
+    margin-left: 14px;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền trong suốt */
+    border: 1px solid white;
+}
+#name{
+    margin-top: 5px;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền trong suốt */
+    border: 1px solid white;
+}
+#fileimg{
+    margin-top: 5px;
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền trong suốt */
+   
+}
+ button { 
+    background-color: rgba(0, 0, 0, 0.5); /* Màu nền trong suốt */
+    border: none;
+    color: white; 
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #4CAF50; 
+}
+body{
+    background-image: url('https://thumbs.dreamstime.com/z/html-internet-coding-website-front-end-programming-web-language-mix-media-background-211355717.jpg');
+    background-size: cover; /* Đảm bảo hình ảnh nền bao phủ toàn bộ kích thước của thẻ body */
+    background-position: center; /* Hiển thị hình ảnh ở giữa */
+    background-repeat: no-repeat; /* Không lặp lại hình ảnh nền */
+}
